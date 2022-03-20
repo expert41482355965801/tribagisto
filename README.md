@@ -2,7 +2,7 @@
 
 mysql server start and db create
 
-env file edit(db connect)
+.env file edit(db connect)
 
 php artisan bagisto:install
 
